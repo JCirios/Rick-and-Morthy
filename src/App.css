@@ -1,5 +1,7 @@
 .App {
+  background-color: #171717;
   text-align: center;
+  background: url(./redux/imag/4.jpg)  ; 
 }
 
 .App-logo {
@@ -23,6 +25,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
 
 .App-link {
   color: #61dafb;
